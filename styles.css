@@ -1,0 +1,27 @@
+h1 {
+    color: #5459E8;
+    text-align: center;
+    font-size: 50px;
+    font-family: 新細明體t;
+}
+a {
+    color: #9EF92F;
+    font-size: 22px; 
+    text-align: center; 
+    font-family: arial; 
+    font-family: 標楷體;
+}
+p {
+    text-align: center;
+}
+pre {
+    color: #03FF00; 
+    font-size: 22px; 
+    text-align: center; 
+    font-family: arial; 
+    font-family: 粗黑體;
+}
+img {
+    display: block;
+    margin: auto;
+}
